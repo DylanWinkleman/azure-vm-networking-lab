@@ -47,7 +47,7 @@ I used the West Europe region and Windows Server 2025 Datacenter (Gen2) because 
 ## Screenshots
 
 ### Resource Group Created
-github.com/DylanWinkleman/azure-vm-networking-lab/blob/main/screenshots/screenshots02-resource-group-created.png
+https://github.com/DylanWinkleman/azure-vm-networking-lab/blob/main/screenshots/screenshots02-resource-group-created.png
 
 ### VM Overview
 https://github.com/DylanWinkleman/azure-vm-networking-lab/blob/main/screenshots/screenshots01-vm-overview.png 

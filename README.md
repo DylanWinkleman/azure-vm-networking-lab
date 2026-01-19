@@ -44,3 +44,17 @@ This project demonstrates how to deploy a Windows Virtual Machine in Microsoft A
 ## Notes About Region / Image
 I used the West Europe region and Windows Server 2025 Datacenter (Gen2) because my free Azure subscription did not allow deployment in my original region with older images.
 
+## Screenshots
+
+### Resource Group Created
+![Resource Group Created](screenshots/01-resource-group-created.png)
+
+### VM Overview
+![VM Overview](screenshots/02-vm-overview.png)
+
+### NSG Rule (RDP restricted to my IP)
+![NSG Rule](screenshots/03-nsg-inbound-rule.png)
+
+### RDP Connected (Successful Login)
+![RDP Connected](screenshots/04-rdp-connected.png)
+

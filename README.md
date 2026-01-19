@@ -47,14 +47,13 @@ I used the West Europe region and Windows Server 2025 Datacenter (Gen2) because 
 ## Screenshots
 
 ### Resource Group Created
-https://github.com/DylanWinkleman/azure-vm-networking-lab/blob/main/screenshots/screenshots01-vm-overview.png
+github.com/DylanWinkleman/azure-vm-networking-lab/blob/main/screenshots/screenshots02-resource-group-created.png
 
 ### VM Overview
-https://github.com/DylanWinkleman/azure-vm-networking-lab/blob/main/screenshots/screenshots02-resource-group-created.png
+https://github.com/DylanWinkleman/azure-vm-networking-lab/blob/main/screenshots/screenshots01-vm-overview.png 
 
 ### NSG Rule (RDP restricted to my IP)
-![NSG Rule](screenshots/03-nsg-inbound-rule.png)
-
-### RDP Connected (Successful Login)
 https://github.com/DylanWinkleman/azure-vm-networking-lab/blob/main/screenshots/screenshots03-nsg-inbound-rule.png
+
+
 

@@ -40,3 +40,7 @@ This project demonstrates how to deploy a Windows Virtual Machine in Microsoft A
 - VM overview
 - NSG inbound rule showing RDP restricted to your IP
 
+
+## Notes About Region / Image
+I used the West Europe region and Windows Server 2025 Datacenter (Gen2) because my free Azure subscription did not allow deployment in my original region with older images.
+
